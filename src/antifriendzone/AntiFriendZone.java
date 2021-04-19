@@ -6,7 +6,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Andres
+ * @author Andres_SrPio
  */
 public class AntiFriendZone extends javax.swing.JFrame {
 
